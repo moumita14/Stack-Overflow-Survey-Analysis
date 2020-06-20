@@ -20,7 +20,9 @@ For this project, I'm using the 2019 Stack Overflow Annual Developer Survey, whi
 
 # Files
 
-The full data exploration is contained in the notebook Stack-Overflow-Survey-Analysis.ipynb. I have also written an article in medium which can be accessed [here](https://medium.com/p/ad333b5d18b7/edit).
+Jupyter Notebook - The full data exploration is contained in the notebook Stack-Overflow-Survey-Analysis.ipynb in this github repository. 
+
+Blog - I have also written an article in medium which can be accessed [here](https://medium.com/p/ad333b5d18b7/edit).
 
 # Technologies Used
 
