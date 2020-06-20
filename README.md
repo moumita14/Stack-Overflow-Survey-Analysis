@@ -18,6 +18,8 @@ My analysis revolved around the following questions:
 
 For this project, I'm using the 2019 Stack Overflow Annual Developer Survey, which can be found [here](https://insights.stackoverflow.com/survey), in the link 'Download Full Data Set (CSV) under the '2019' header.
 
+In my case I stored the csv file in my Google Drive and accessed it as shown in the notebook through Google Colab. 
+
 # Files
 
 Jupyter Notebook - The full data exploration is contained in the notebook Stack-Overflow-Survey-Analysis.ipynb in this github repository. 
