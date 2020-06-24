@@ -24,7 +24,7 @@ In my case I stored the csv file in my Google Drive and accessed it as shown in 
 
 Jupyter Notebook - The full data exploration is contained in the notebook Stack-Overflow-Survey-Analysis.ipynb in this github repository. 
 
-Blog - I have also written an article in medium which can be accessed [here](https://medium.com/@moumita_30467/peeping-into-the-world-of-the-most-satisfied-developers-ad333b5d18b7).
+Blog - I have also written an article in medium which can be accessed [here](https://medium.com/@moumita_30467/identifying-dog-breeds-using-deep-learning-7fcc4854aad3).
 
 # Technologies Used
 
